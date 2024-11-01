@@ -1,7 +1,7 @@
 #!/bin/sh
 
 REPO="https://api.github.com/repos/itdoginfo/podkop/releases/latest"
-BASE_RAW_URL="https://raw.githubusercontent.com/itdoginfo/domain-routing-openwrt/refs/heads/main"
+BASE_RAW_URL="https://raw.githubusercontent.com/Slava-Shchipunov/podkop/refs/heads/feat/add-amneziawg-auto-install"
 
 DOWNLOAD_DIR="/tmp/podkop"
 mkdir -p "$DOWNLOAD_DIR"
